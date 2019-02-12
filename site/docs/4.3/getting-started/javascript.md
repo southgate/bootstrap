@@ -183,7 +183,7 @@ var DefaultWhitelist = {
 }
 {% endhighlight %}
 
-If you want to add new values to this default whiteList you can do the following:
+If you want to add new values to this default `whiteList` you can do the following:
 
 {% highlight js %}
 var myDefaultWhiteList = $.fn.tooltip.Constructor.Default.whiteList
